@@ -1,0 +1,702 @@
+{
+	"allAvaliableMap": 
+	[
+
+		{
+			"nameScene": "Maze",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Cementery",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "City",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Gluk",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Jail",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Hospital",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Pool",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Slender",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Castle",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Ranch",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Arena_MP",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Sky_islands",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Dust",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Bridge",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Farm",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Utopia",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Aztec",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Arena",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Assault",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Winter",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "School",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Parkour",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Coliseum_MP",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Hungry",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Hungry_Night",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Hungry_2",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Estate",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Space",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Portal",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Two_Castles",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Ships",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Ships_Night",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Gluk_3",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Matrix",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Ants",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Hill",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Heaven",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Underwater",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Knife",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Day_D",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "NuclearCity",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Cube",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Train",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Sniper",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Supermarket",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Pumpkins",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Christmas_Town",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Christmas_Town_Night",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Paradise",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Bota",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Pizza",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Barge",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Slender_Multy",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Mine",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Castle_campaign3",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Code_campaign3",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Space_campaign3",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Swamp_campaign3",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "LoveIsland",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Area52Labs",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Cube_portals",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Paradise_Night",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "WinterIsland",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "WalkingFortress",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "ToyFactory",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		},
+		{
+			"nameScene": "Developer_Scene",
+			"minV": "0.0.0.0",
+			"maxV": "12.0.0.0",
+		}
+
+	],
+
+	"modeMap":
+	[
+		{
+			"modeId": "Deathmatch",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Paradise"
+				},
+				{
+					"nameScene": "ToyFactory"
+				},
+				{
+					"nameScene": "Area52Labs"
+				},
+				{
+					"nameScene": "Pizza"
+				},
+				{
+					"nameScene": "Christmas_Town"
+				},
+				{
+					"nameScene": "NuclearCity"
+				},
+				{
+					"nameScene": "Supermarket"
+				},
+				{
+					"nameScene": "Sky_islands"
+				},
+				{
+					"nameScene": "Sniper"
+				},
+				{
+					"nameScene": "Knife"
+				},
+				{
+					"nameScene": "Heaven"
+				},
+				{
+					"nameScene": "Hill"
+				},
+				{
+					"nameScene": "Ants"
+				},
+				{
+					"nameScene": "Underwater"
+				},
+				{
+					"nameScene": "Matrix"
+				},
+				{
+					"nameScene": "Ships"
+				},
+				{
+					"nameScene": "Portal"
+				},
+				{
+					"nameScene": "Space"
+				},
+				{
+					"nameScene": "Estate"
+				},
+				{
+					"nameScene": "Parkour"
+				},
+				{
+					"nameScene": "Pool"
+				},
+				{
+					"nameScene": "School"
+				},
+				{
+					"nameScene": "Coliseum_MP"
+				},
+				{
+					"nameScene": "Bridge"
+				},
+				{
+					"nameScene": "Jail"
+				},
+				{
+					"nameScene": "Slender_Multy"
+				},
+				{
+					"nameScene": "Train"
+				},
+				{
+					"nameScene": "Developer_Scene",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				},
+				{
+					"nameScene": "Castle_campaign3",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				},
+				{
+					"nameScene": "Code_campaign3",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				},
+				{
+					"nameScene": "Space_campaign3",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				},
+				{
+					"nameScene": "Swamp_campaign3",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				},
+				{
+					"nameScene": "LoveIsland",
+					"minV": "0.0.0.0",
+					"maxV": "12.0.0.0",
+				}
+			]
+		},
+		{
+			"modeId": "TimeBattle",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Utopia"
+				},
+				{
+					"nameScene": "Paradise_Night"
+				},
+				{
+					"nameScene": "Arena"
+				},
+				{
+					"nameScene": "Pizza"
+				},
+				{
+					"nameScene": "Bridge"
+				},
+				{
+					"nameScene": "Assault"
+				},
+				{
+					"nameScene": "Dust"
+				},
+				{
+					"nameScene": "Winter"
+				}
+			]
+		},
+		{
+			"modeId": "TeamFight",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Heaven"
+				},
+				{
+					"nameScene": "ToyFactory"
+				},
+				{
+					"nameScene": "WalkingFortress"
+				},
+				{
+					"nameScene": "Area52Labs"
+				},
+				{
+					"nameScene": "Barge"
+				},
+				{
+					"nameScene": "Pizza"
+				},
+				{
+					"nameScene": "Bota"
+				},
+				{
+					"nameScene": "Paradise"
+				},
+				{
+					"nameScene": "Christmas_Town_Night"
+				},
+				{
+					"nameScene": "Space"
+				},
+				{
+					"nameScene": "Train"
+				},
+				{
+					"nameScene": "Day_D"
+				},
+				{
+					"nameScene": "Sniper"
+				},
+				{
+					"nameScene": "Knife"
+				},
+				{
+					"nameScene": "Ants"
+				},
+				{
+					"nameScene": "Underwater"
+				},
+				{
+					"nameScene": "Matrix"
+				},
+				{
+					"nameScene": "Ships_Night"
+				},
+				{
+					"nameScene": "Portal"
+				},
+				{
+					"nameScene": "Estate"
+				},
+				{
+					"nameScene": "Parkour"
+				},
+				{
+					"nameScene": "Pool"
+				},
+				{
+					"nameScene": "Ranch"
+				},
+				{
+					"nameScene": "Assault"
+				},
+				{
+					"nameScene": "Aztec"
+				},
+				{
+					"nameScene": "Dust"
+				},
+				{
+					"nameScene": "Sky_islands"
+				},
+				{
+					"nameScene": "NuclearCity"
+				}
+			]
+		},
+		{
+			"modeId": "DeadlyGames",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Hungry"
+				},
+				{
+					"nameScene": "Cube_portals"
+				},
+				{
+					"nameScene": "Hungry_Night"
+				},
+				{
+					"nameScene": "Hungry_2"
+				},
+				{
+					"nameScene": "Gluk_3"
+				},
+				{
+					"nameScene": "Cube"
+				}
+			]
+		},
+		{
+			"modeId": "FlagCapture",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Two_Castles"
+				},
+				{
+					"nameScene": "ToyFactory"
+				},
+				{
+					"nameScene": "WalkingFortress"
+				},
+				{
+					"nameScene": "Area52Labs"
+				},
+				{
+					"nameScene": "Barge"
+				},
+				{
+					"nameScene": "Bota"
+				},
+				{
+					"nameScene": "Paradise"
+				},
+				{
+					"nameScene": "Parkour"
+				},
+				{
+					"nameScene": "NuclearCity"
+				},
+				{
+					"nameScene": "Day_D"
+				},
+				{
+					"nameScene": "Ants"
+				},
+				{
+					"nameScene": "Underwater"
+				},
+				{
+					"nameScene": "Matrix"
+				},
+				{
+					"nameScene": "Portal"
+				},
+				{
+					"nameScene": "Space"
+				},
+				{
+					"nameScene": "Dust"
+				},
+				{
+					"nameScene": "Ships"
+				}
+			]
+		},
+		{
+			"modeId": "CapturePoints",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "Mine"
+				},
+				{
+					"nameScene": "Area52Labs"
+				},
+				{
+					"nameScene": "Bota"
+				},
+				{
+					"nameScene": "Paradise"
+				},
+				{
+					"nameScene": "Parkour"
+				}
+			]
+		},
+		{
+			"modeId": "Dater",
+			"scenesForMode":
+			[
+				{
+					"nameScene": "LoveIsland"
+				},
+				{
+					"nameScene": "WinterIsland"
+				},
+				{
+					"nameScene": "Assault"
+				},
+				{
+					"nameScene": "Arena_MP"
+				},
+				{
+					"nameScene": "Area52Labs"
+				}
+			]
+		}
+
+	]
+}
