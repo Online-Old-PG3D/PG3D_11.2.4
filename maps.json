@@ -1,7 +1,7 @@
 {
 	"allAvaliableMap": 
 	[
-		
+
 		{
 			"nameScene": "Maze",
 			"minV": "0.0.0.0",
@@ -445,12 +445,6 @@
 				},
 				{
 					"nameScene": "Barge"
-				},
-				{
-					"nameScene": "Matrix"
-				},
-				{
-					"nameScene": "Portal"
 				}
 			]
 		},
