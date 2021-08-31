@@ -1,12 +1,7 @@
 {
 	"allAvaliableMap": 
 	[
-
-		{
-			"nameScene": "Area52",
-			"minV": "0.0.0.0",
-			"maxV": "12.0.0.0",
-		},
+		
 		{
 			"nameScene": "Maze",
 			"minV": "0.0.0.0",
@@ -698,7 +693,13 @@
 					"nameScene": "Mine"
 				},
 				{
-					"nameScene": "Area52"
+					"nameScene": "Bota"
+				},
+				{
+					"nameScene": "Paradise"
+				},
+				{
+					"nameScene": "Cube"
 				}
 			]
 		}
