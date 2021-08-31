@@ -703,6 +703,9 @@
 				},
 				{
 					"nameScene": "Cube"
+				},
+				{
+					"nameScene": "Estate"	
 				}
 			]
 		}
