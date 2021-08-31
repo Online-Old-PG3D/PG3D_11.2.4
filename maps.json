@@ -444,7 +444,7 @@
 					"nameScene": "Mine"
 				},
 				{
-					"nameScene": "Barge"
+					"nameScene": "Cube_portals"
 				}
 			]
 		},
@@ -468,7 +468,7 @@
 					"nameScene": "Bridge"
 				},
 				{
-					"nameScene": "Assault"
+					"nameScene": "Cube_portals"
 				},
 				{
 					"nameScene": "Dust"
@@ -495,13 +495,10 @@
 					"nameScene": "Area52Labs"
 				},
 				{
-					"nameScene": "Barge"
-				},
-				{
 					"nameScene": "Pizza"
 				},
 				{
-					"nameScene": "Bota"
+					"nameScene": "Cube_portals"
 				},
 				{
 					"nameScene": "Paradise"
