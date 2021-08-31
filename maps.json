@@ -331,11 +331,6 @@
 			"nameScene": "Developer_Scene",
 			"minV": "0.0.0.0",
 			"maxV": "12.0.0.0",
-		},
-		{
-			"nameScene": "Area52",
-			"minV": "0.0.0.0",
-			"maxV": "12.0.0.0",
 		}
 
 	],
@@ -456,9 +451,6 @@
 				},
 				{
 					"nameScene": "Barge"
-				},
-				{
-					"nameScene": "Area52"
 				}
 			]
 		},
@@ -702,9 +694,6 @@
 				},
 				{
 					"nameScene": "Area52Labs"
-				},
-				{
-					"nameScene": "Area52"
 				},
 				{
 					"nameScene": "Mine"
