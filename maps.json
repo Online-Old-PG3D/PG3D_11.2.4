@@ -445,6 +445,12 @@
 				},
 				{
 					"nameScene": "Barge"
+				},
+				{
+					"nameScene": "Matrix"
+				},
+				{
+					"nameScene": "Portal"
 				}
 			]
 		},
@@ -679,9 +685,6 @@
 				},
 				{
 					"nameScene": "WinterIsland"
-				},
-				{
-					"nameScene": "Assault"
 				},
 				{
 					"nameScene": "Developer_Scene"
